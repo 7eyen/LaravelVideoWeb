@@ -15,7 +15,7 @@ Vue.config.productionTip = false
 Vue.use(VueAxios, axios)
 Vue.use(VueAwesomeSwiper)
 
-axios.defaults.baseURL = "http://www.test.com/api/"
+axios.defaults.baseURL = "https://7eyen.000webhostapp.com/api/"
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
