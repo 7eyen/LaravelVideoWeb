@@ -25,6 +25,10 @@ npm run build
 
 编译完成后,将`/disk`文件部署到网站根目录
 
+## 相关仓库
+
+- [LaravelVideo](https://github.com/7eyen/LaravelVideo) - 基于laravel-admin视频管理系统
+
 ## LaravelVideoWeb演示
 
 [https://7eyen.github.io/laravelvideoweb/](https://7eyen.github.io/laravelvideoweb/)
