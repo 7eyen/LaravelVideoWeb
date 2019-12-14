@@ -31,7 +31,7 @@ npm run build
 
 ## LaravelVideoWeb演示
 
-[https://7eyen.github.io/laravelvideoweb/](https://7eyen.github.io/laravelvideoweb/)
+[https://7eyen.github.io/laravel-video-web/](https://7eyen.github.io/laravel-video-web/)
 
 ## 使用许可
 
