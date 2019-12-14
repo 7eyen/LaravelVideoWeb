@@ -1,0 +1,34 @@
+LaravelVideo前端项目
+
+<p>
+<a href=""><img alt="to GitHub Pages" src="https://img.shields.io/github/workflow/status/7eyen/LaravelVideoWeb/Deploy to GitHub Pages/master"></a>
+<a href="https://github.com/houdunwang/video"><img src="https://img.shields.io/badge/Power_by-后盾人-yellow?&logo=github" alt="houdunren"></a>
+<a href="LICENSE"><img src="https://img.shields.io/github/license/7eyen/laravelvideoweb" alt="License"></a>
+</p>
+
+> LaravelVideo配套前端项目
+
+## 安装
+
+这个项目使用 [node](http://nodejs.org) 和 [npm](https://npmjs.com). 请确保你本地安装了它们。
+
+> 编译前修改`src/mian.js`文件中的`axios.defaults.baseURL`对应域名
+
+```bash
+# install dependencies
+$ npm install
+
+# build for production with minification
+npm run build
+```
+## 使用说明
+
+编译完成后,将`/disk`文件部署到网站根目录
+
+## LaravelVideoWeb演示
+
+[https://7eyen.github.io/laravelvideoweb/](https://7eyen.github.io/laravelvideoweb/)
+
+## 使用许可
+
+[MIT](LICENSE) © 7eyen
