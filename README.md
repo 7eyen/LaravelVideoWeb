@@ -4,6 +4,7 @@ LaravelVideo前端项目
 <a href=""><img alt="to GitHub Pages" src="https://img.shields.io/github/workflow/status/7eyen/LaravelVideoWeb/Deploy to GitHub Pages/master"></a>
 <a href="https://github.com/houdunwang/video"><img src="https://img.shields.io/badge/Power_by-后盾人-yellow?&logo=github" alt="houdunren"></a>
 <a href="LICENSE"><img src="https://img.shields.io/github/license/7eyen/laravelvideoweb" alt="License"></a>
+<img src="https://img.shields.io/website?label=api&up_message=online&url=https%3A%2F%2F7eyen.000webhostapp.com%2Fapi%2Ftags" />
 </p>
 
 > LaravelVideo配套前端项目
